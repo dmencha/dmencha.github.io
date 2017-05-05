@@ -14,6 +14,7 @@ h1, a, p, li{
 .maincontainer ul li a:hover {
   font-weight: 700;
   text-decoration: none;
+  color: black;
 }
 .leftmenu{
   padding-left: 7%;
@@ -29,4 +30,5 @@ h1, a, p, li{
 }
 .glyphicon {
   padding-top: 90%;
+  color: #bbc3ce;
 }
